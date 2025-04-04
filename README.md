@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**SusmithaEce/SusmithaEce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Susmitha!
 
-Here are some ideas to get you started:
+🎓 Electronics & Communication Engineering Student  
+💡 Passionate about AI, VLSI, IoT, and Medical Imaging  
+🚀 Currently working on Brain Tumor Detection with AI & Nanoscale Contrast Agents  
+🔧 Tools I Use: Python, Verilog, MATLAB, TensorFlow, Arduino, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Projects
+
+### 🧠 Brain Tumor Detection using AI
+AI-powered tool to detect and segment tumors from MRI scans.  
+**Tech:** Python, TensorFlow, OpenCV, Streamlit  
+🔗 [View Project](#)
+
+---
+
+### 🌐 IoT-Based Disaster Alert System
+Sends live disaster alerts via sensors and mobile notifications.  
+**Tech:** NodeMCU, Arduino IDE, Firebase, MIT App  
+🔗 [View Project](#)
+
+---
+
+### 🔬 Smart Traffic Control using VLSI
+Verilog-based simulation of smart traffic lights using ModelSim.  
+**Tech:** Verilog HDL, ModelSim/Xilinx  
+🔗 [View Project](#)
+
+---
+
+## 📫 Get in Touch
+- Email: [your.email@example.com]
+- LinkedIn: [your-linkedin-url]
+
+---
+✨ Let's build something great together!
