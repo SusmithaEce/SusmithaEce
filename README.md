@@ -2,7 +2,7 @@
 
 🎓 Electronics & Communication Engineering Student  
 💡 Passionate about AI, VLSI, IoT, and Medical Imaging  
-🚀 Currently working on Brain Tumor Detection with AI & Nanoscale Contrast Agents  
+🚀 Currently working on Brain Tumor Detection using mri with ai
 🔧 Tools I Use: Python, Verilog, MATLAB, TensorFlow, Arduino, VS Code  
 
 ---
