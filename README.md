@@ -1,4 +1,3 @@
-
 # 👋 Hi there, I'm Susmitha!
 
 🎓 Electronics & Communication Engineering Student  
@@ -24,6 +23,13 @@ Sends live disaster alerts via sensors and mobile notifications.
 
 ---
 
+### 🔥 Forest Fire Detection system using IoT 
+Detects early forest fires using flame sensors and thermal imaging.  
+**Tech:** Arduino, Flame Sensor, Python,  Firebase Alerts  
+🔗 [View Project](#)
+
+---
+
 ### 🔬 Smart Traffic Control using VLSI
 Verilog-based simulation of smart traffic lights using ModelSim.  
 **Tech:** Verilog HDL, ModelSim/Xilinx  
@@ -36,4 +42,6 @@ Verilog-based simulation of smart traffic lights using ModelSim.
 - LinkedIn: [your-linkedin-url]
 
 ---
+
 ✨ Let's build something great together!
+
